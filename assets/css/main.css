@@ -3723,6 +3723,11 @@ input, select, textarea {
 				color: rgba(255, 255, 255, 0.75);
 			}
 
+			#wrapper > .main > header.accent10 {
+				background-color: #f7f7f7;
+				color: rgba(255, 255, 255, 0.75);
+}
+
 				#wrapper > .main > header.accent1 input, #wrapper > .main > header.accent1 select, #wrapper > .main > header.accent1 textarea {
 					color: #ffffff;
 				}
